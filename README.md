@@ -23,9 +23,12 @@ It contains structured notes, tools, and legal hands-on labs for ethical hacking
 - OpenVAS (overview)
 
 ## 🧪 Hands-On Labs
-- Password strength checker
-- Hash cracking demo
-- Security concept simulations
+- Password Strength Checker (Python)
+- Hash Cracker Demo (MD5)
+
+## 📌 Certification Alignment
+This project is aligned with CEH v12 methodology
+and ethical hacking practices.
 
 ## ⚠ Disclaimer
 This repository is for **educational purposes only**.
@@ -34,3 +37,5 @@ Unauthorized hacking is illegal.
 ## 🎯 Goal
 To help students prepare for **CEH certification** and understand real-world
 cybersecurity attack and defense methodologies.
+
+
